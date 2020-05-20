@@ -26,5 +26,8 @@ DP + ML:
 
 SGX:
 * [Autarky: Closing controlled channels with self-paging enclaves](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
+* [Oblivious Multi-Party Machine Learning on Trusted Processors](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/paper.pdf)
+* [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf)
+* [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/pdf/1902.04413.pdf)
 
 TODO: add zksnark related papers
