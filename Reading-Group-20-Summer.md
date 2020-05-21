@@ -23,6 +23,8 @@ DP + ML:
 * [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
 * [Honeycrisp: Large-Scale Differentially Private Aggregation Without a Trusted Core](https://dl.acm.org/doi/pdf/10.1145/3341301.3359660)
 * [Privacy accounting and quality control in the sage differentially private ML platform](https://dl.acm.org/doi/pdf/10.1145/3341301.3359639)
+* [An Algorithmic Framework For Differentially Private
+Data Analysis on Trusted Processors](https://arxiv.org/pdf/1807.00736.pdf)
 
 SGX:
 * [Autarky: Closing controlled channels with self-paging enclaves](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
