@@ -32,4 +32,7 @@ SGX:
 * [SCONE: Secure Linux Containers with Intel SGX](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf)
 * [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/pdf/1902.04413.pdf)
 * [Hermetic: Privacy-preserving distributed analytics without (most) side channels](https://www.cis.upenn.edu/~ahae/papers/hermetic-tr.pdf)
+* [Telekine: Secure Computing with Cloud GPUs](https://www.cs.utexas.edu/~thunt/papers/telekine_nsdi2020.pdf)
+* [Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.cs.utexas.edu/~thunt/papers/ryoan_osdi2016.pdf)
+
 TODO: add zksnark related papers
