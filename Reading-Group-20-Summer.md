@@ -1,4 +1,13 @@
+Schedule
+=========
+
+[ObliDB: Oblivious Query Processing for Secure Databases](http://www.vldb.org/pvldb/vol13/p169-eskandarian.pdf)
+* Presenter: Shumo Chu
+* Date: May 29 9 PM EDT (6PM Pacific Time, 8PM Chicago Time, 9 AM May 30 Beijing time)
+* Zoom link will send by email
+
 Potential Papers (clustered by topics):
+=======================================
 
 Theory:
 * [Optimal Accuracy-Privacy Trade-Off for Secure Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573818)
