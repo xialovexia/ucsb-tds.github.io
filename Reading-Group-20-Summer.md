@@ -12,6 +12,7 @@ Potential Papers (clustered by topics):
 Theory:
 * [Optimal Accuracy-Privacy Trade-Off for Secure Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8573818)
 * [Oblivious Query Processing](https://arxiv.org/abs/1312.4012)
+* [Foundations of Differentially Oblivious Algorithms](https://eprint.iacr.org/2017/1033.pdf)
 
 Crypto Implementation:
 * [Fast GPGPU-Based Elliptic Curve Scalar Multiplication](https://eprint.iacr.org/2014/198.pdf)
