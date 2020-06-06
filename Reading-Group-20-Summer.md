@@ -44,5 +44,6 @@ SGX:
 * [Hermetic: Privacy-preserving distributed analytics without (most) side channels](https://www.cis.upenn.edu/~ahae/papers/hermetic-tr.pdf)
 * [Telekine: Secure Computing with Cloud GPUs](https://www.cs.utexas.edu/~thunt/papers/telekine_nsdi2020.pdf)
 * [Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.cs.utexas.edu/~thunt/papers/ryoan_osdi2016.pdf)
+* [CRYPTFLOW: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814.pdf)
 
 TODO: add zksnark related papers
