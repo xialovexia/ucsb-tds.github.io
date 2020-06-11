@@ -1,5 +1,9 @@
 Schedule
 =========
+[CRYPTFLOW: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814.pdf)
+* Presenter: Qiudong Xia
+* Date: June 12 9PM EDT (8PM Central Time, 9AM June 12 Beijing Time)
+* Zoom link sent by email
 
 [ObliDB: Oblivious Query Processing for Secure Databases](http://www.vldb.org/pvldb/vol13/p169-eskandarian.pdf)
 * Presenter: Shumo Chu
