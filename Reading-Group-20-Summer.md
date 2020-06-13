@@ -40,6 +40,11 @@ DP + ML:
 * [An Algorithmic Framework For Differentially Private
 Data Analysis on Trusted Processors](https://arxiv.org/pdf/1807.00736.pdf)
 
+Privacy Preserving ML:
+* [FALCON: A Fourier Transform Based Approach for Fast and Secure Convolutional Neural Network Predictions](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_FALCON_A_Fourier_Transform_Based_Approach_for_Fast_and_Secure_CVPR_2020_paper.pdf)
+* [ABY3: A Mixed Protocol Framework for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3243734.3243760)
+* [Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23005.pdf)
+
 SGX:
 * [Autarky: Closing controlled channels with self-paging enclaves](https://marksilberstein.com/wp-content/uploads/2020/02/eurosys20-final310.pdf)
 * [Oblivious Multi-Party Machine Learning on Trusted Processors](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/paper.pdf)
